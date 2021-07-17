@@ -1,0 +1,1 @@
+this ultility module is licenced under GPLv3
